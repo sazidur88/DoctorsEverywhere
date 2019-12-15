@@ -1,0 +1,37 @@
+body{
+	background-color: #b3b3b7;
+    background-image: url("bg.jpg");
+    text-align: center;
+    background-size: 100%;
+}
+p{
+    text-align: center;
+}
+table {
+
+    width:100%;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even){
+    background-color: #647ba7;
+}
+tr:nth-child(odd){
+    background-color: #bcc3e3;
+}
+
+th {
+    background-color: #4664ec;
+    color: white;
+}
+h1{
+	color: red;
+	text-align: center;
+}
+form{
+	text-align: center;
+}
